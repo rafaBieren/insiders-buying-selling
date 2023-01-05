@@ -1,1 +1,1 @@
-# insiders buying and sellings
+# insiders buying and sells
